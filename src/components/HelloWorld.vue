@@ -48,5 +48,6 @@ export default {
   .div-table{
     width: 600px;
     height: 300px;
+    margin: 30px auto;
   }
 </style>
